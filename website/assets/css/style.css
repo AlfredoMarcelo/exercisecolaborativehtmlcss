@@ -5,4 +5,14 @@
     justify-content: left;
     text-align: justify;
 }
+.contacto{
+    margin: auto;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+.form-group{
+    display: flex;
+   
+    justify-content: center;
+}
 
