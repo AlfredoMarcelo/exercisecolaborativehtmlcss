@@ -9,10 +9,15 @@
     margin: auto;
     margin-left: 5cm;
     margin-right: 5cm;
+    margin-bottom: 1cm;
 }
 .form-group{
     display: flex;
    
     justify-content: center;
+}
+.justify-content-start{
+    margin-right: 3cm;
+    margin-left: 3cm;
 }
 
